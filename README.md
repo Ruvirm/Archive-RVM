@@ -27,3 +27,36 @@
 | 1.0 | - Создан лексер. <br> - Начало разработки языка. <br> - **Лексер неактуален** |
 
 
+# Изменения в компиляторе
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color:#4CAF50; color:white">Версия</th>
+      <th style="background-color:#4CAF50; color:white">Описание изменений</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:#f2f2f2">1.2 (скоро)</td>
+      <td>- <span style="color:#FF5733">Добавлены ключевые слова</span>. <br> - Переписан на C с элементами C++.</td>
+    </tr>
+    <tr>
+      <td>1.1.2</td>
+      <td>- Добавлен приоритет операций. <br> - <span style="color:red; font-weight:bold">Неактуально</span></td>
+    </tr>
+    <tr>
+      <td style="background-color:#f2f2f2">1.1.1</td>
+      <td>- Поддержка чисел с плавающей точкой. <br> - Начало работы над языком. <br> - <span style="color:red; font-weight:bold">Парсер неактуален</span></td>
+    </tr>
+    <tr>
+      <td>1.1</td>
+      <td>- Добавлен парсер.</td>
+    </tr>
+    <tr>
+      <td style="background-color:#f2f2f2">1.0</td>
+      <td>- Создан лексер. <br> - Начало разработки языка. <br> - <span style="color:red; font-weight:bold">Лексер неактуален</span></td>
+    </tr>
+  </tbody>
+</table>
+
