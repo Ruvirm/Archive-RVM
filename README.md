@@ -1,33 +1,27 @@
-## Архив языка RVM 
+## RVM Language Archive 
 
 > [!NOTE]
-> Все версии даже с незначительными изменениями.
+> All versions, including those with minor changes.
 
 > [!TIP]
-> Используйте старые версии, зная, что проект нельзя перенести из-за полного изменения компилятора.
+> Use older versions with the knowledge that projects cannot be migrated due to the complete overhaul of the compiler.
 
 > [!IMPORTANT]
-> Используйте LTS
+> Use the LTS version.
 
 > [!WARNING]
-> Язык не до конца создан и может вызывать ошибки. При ошибке напишите автору в тг (юзернейм в профиле).
+> The language is still under development and may contain errors. If you encounter any, contact the author on Telegram (username available in the profile).
 
 > [!CAUTION]
-> Не используйте сторонние лексеры, не проверенные, они повлекут ошибки.
+> Do not use third-party lexers unless verified, as they may cause errors.
 
+# Compiler Change Log:
 
-# Таблица изменений в компиляторе:
-
-# Изменения в компиляторе
-
-| Версия | Описание изменений | Актуальность
-|--------|--------------------|--------------|
-| 2 | - Сделана виртуальная машина (простая релизация). <br> - rvm. |**Актуально**|
-| 1.2 | - Переписан на C с элементами C++. <br> - Лексер. |**Актуально**|
-| 1.1.2 | - Добавлен приоритет операций. <br> |**Неактуально** |
-| 1.1.1 | - Поддержка чисел с плавающей точкой. <br> - Начало работы над языком. <br>|**Неактуально** |
-| 1.1 | - Добавлен парсер. |**Парсер неактуален** |
-| 1.0 | - Создан лексер. <br> - Начало разработки языка. |**Лексер неактуален** |
-
-
-
+| Version | Description of Changes | Status |
+|---------|-------------------------|--------|
+| 2       | - Implemented a virtual machine (simple version). <br> - RVM. | **Current** |
+| 1.2     | - Rewritten in C with C++ elements. <br> - Lexer added. | **Current** |
+| 1.1.2   | - Added operator precedence. | **Outdated** |
+| 1.1.1   | - Support for floating-point numbers added. <br> - Began language development. | **Outdated** |
+| 1.1     | - Added parser. | **Parser outdated** |
+| 1.0     | - Lexer created. <br> - Language development started. | **Lexer outdated** |
