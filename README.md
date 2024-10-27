@@ -25,7 +25,7 @@
 | 0.2    | - Added parser. | **Parser outdated** |
 | 0.1    | - Lexer created. <br> - Language development started. | **Lexer outdated** |
 
-# Change Log Rvm.
+# Change Log Rvm:
 
 | Version | Description of Changes | Status |
 |---------|-------------------------|--------|
