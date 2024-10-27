@@ -1,4 +1,4 @@
-## RVM Language Archive 
+## RVM and Language Archive 
 
 > [!NOTE]
 > All versions, including those with minor changes.
@@ -15,13 +15,19 @@
 > [!CAUTION]
 > Do not use third-party lexers unless verified, as they may cause errors.
 
-# Compiler Change Log:
+# Compiler Change Log Rylang:
 
 | Version | Description of Changes | Status |
 |---------|-------------------------|--------|
-| 2       | - Implemented a virtual machine (simple version). <br> - RVM. | **Current** |
-| 1.2     | - Rewritten in C with C++ elements. <br> - Lexer added. | **Current** |
-| 1.1.2   | - Added operator precedence. | **Outdated** |
-| 1.1.1   | - Support for floating-point numbers added. <br> - Began language development. | **Outdated** |
-| 1.1     | - Added parser. | **Parser outdated** |
-| 1.0     | - Lexer created. <br> - Language development started. | **Lexer outdated** |
+| 0.5     | - Rewritten in C with C++ elements. <br> - Lexer added. | **Current** |
+| 0.4   | - Added operator precedence. | **Outdated** |
+| 0.3   | - Support for floating-point numbers added. <br> - Began language development. | **Outdated** |
+| 0.2    | - Added parser. | **Parser outdated** |
+| 0.1    | - Lexer created. <br> - Language development started. | **Lexer outdated** |
+
+# Change Log Rvm.
+
+| Version | Description of Changes | Status |
+|---------|-------------------------|--------|
+| 0.2     | - A working VM with its own bytecode.| **Current** |
+| 0.1   | - Basic vm. | **Outdated** |
